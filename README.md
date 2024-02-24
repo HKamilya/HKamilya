@@ -1,8 +1,6 @@
 # Hi there, I'm Kamilya ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
 
 ### About me
-- 🎓 Student of Institute of Information Technology and Intelligent Systems (KFU, ITIS).
-- ☕ Studying **Java EE** development at university.
 - 💼 I work as a java developer. 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HKamilya&layout=compact)](https://github.com/HKamilya/github-readme-stats)
